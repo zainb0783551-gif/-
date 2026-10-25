@@ -1,0 +1,27 @@
+{
+  "name": "UnityVisualScriptingExpert.Bridge.Editor",
+  "rootNamespace": "UVSExpert.Bridge.Editor",
+  "references": [
+    "Unity.VisualScripting.Core",
+    "Unity.VisualScripting.Core.Editor",
+    "Unity.VisualScripting.Flow",
+    "Unity.VisualScripting.Flow.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.visualscripting",
+      "expression": "1.7.0",
+      "define": "UVS_BRIDGE_ENABLED"
+    }
+  ],
+  "noEngineReferences": false
+}

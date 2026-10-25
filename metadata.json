@@ -1,0 +1,6 @@
+{
+  "name": "Unity Visual Scripting Expert",
+  "description": "منصة هندسية متخصصة لتحليل مشاكل الألعاب وبناء وتدقيق وتصدير مخططات Unity Visual Scripting المتوافقة مع Unity 2021.3 LTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
